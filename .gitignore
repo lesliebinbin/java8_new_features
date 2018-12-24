@@ -10,4 +10,4 @@ build
 
 .settings
 
-*.class
+out
